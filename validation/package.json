@@ -10,7 +10,7 @@
     "image-size": "^0.5.4",
     "image-type": "^3.0.0",
     "read-chunk": "latest",
-    "toml": "^2.3.2"
+    "toml": "^4.2.0"
   },
   "preferGlobal": false,
   "private": true,
